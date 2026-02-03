@@ -14,3 +14,16 @@ about:
 ---
 
 I am a student pursuing an M.S. in Data Science, and a Graduate Certificate in Sports Analytics from Michigan State University. I am also currently working with SMT (SportsMEDIA Technology) on their RAZOR NHL platform applying data science principles to NHL hockey untilizing Player & Puck Tracking Data. Formerly a goalie, coach, sports betting trader, and Alumnus of Colorado College Class of 2020. Thank you for visiting my website, please flip through the tabs above to explore my project work and learn more about me. To contact, please utilize the links to the left to reach me via LinkedIn or email.
+
+::: {.mb-5}
+:::
+
+::: columns
+::: column
+![](Colorado-College-Tigers-Logo-1979.png){width=100%}
+:::
+
+::: column
+![](Michigan-State-Spartans-logo.png){width=100%}
+:::
+:::
