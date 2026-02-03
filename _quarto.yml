@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "JLarabee32.github.io"
+  title: "Joey Larabee"
   navbar:
     left:
       - href: index.qmd
@@ -12,9 +12,10 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: cyborg
     css: styles.css
     toc: true
+    page-layout: full
 
 
 

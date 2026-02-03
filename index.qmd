@@ -1,5 +1,16 @@
 ---
-title: "JLarabee32.github.io"
+title: "Joey Larabee"
+image: Spartan_Stadium.jpeg
+toc: false
+about: 
+  template: marquee
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/joeylarabee/
+    - text: GitHub
+      href: https://github.com/JLarabee32
+    - text: Email
+      href: mailto:larabee2@msu.edu
 ---
 
 This is a Quarto website.
