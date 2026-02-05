@@ -13,7 +13,11 @@ about:
       href: mailto:larabee2@msu.edu
 ---
 
-I am a student pursuing an M.S. in Data Science, and a Graduate Certificate in Sports Analytics from Michigan State University. I am also currently working with SMT (SportsMEDIA Technology) on their RAZOR NHL platform applying data science principles to NHL hockey untilizing Player & Puck Tracking Data. Formerly a goalie, coach, sports betting trader, and Alumnus of Colorado College Class of 2020. Thank you for visiting my website, please flip through the tabs above to explore my project work and learn more about me. To contact, please utilize the links to the left to reach me via LinkedIn or email.
+I am a graduate student at Michigan State University pursuing an M.S. in Data Science and a Graduate Certificate in Sports Analytics. My academic work focuses on statistical modeling, machine learning, and data engineering techniques applied to high velocity sports data.
+I currently work with SMT (SportsMEDIA Technology) on the RAZOR NHL platform, where I analyze NHL Player and Puck Tracking data to support performance insights, spatial analysis, and real time decision support tools. My experience spans data preprocessing, feature engineering, predictive modeling, and visualization within the hockey analytics ecosystem.
+Before transitioning into analytics, I spent time as a goalie, coach, and sports betting trader—experiences that shaped my understanding of the game and inform my approach to quantitative evaluation. I am also a graduate of Colorado College (Class of 2020).
+Thank you for visiting my website. You can explore my project portfolio using the tabs above, and connect with me via LinkedIn or email using the links on the left.
+
 
 ::: {.mb-5}
 :::
