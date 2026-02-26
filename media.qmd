@@ -1,6 +1,6 @@
 ---
 title: "Media Appearances"
-description: "Interviews, Podcasts, Speaking engagements, and Features regarding sports data science."
+description: "Interviews, Podcasts, Speaking Engagements, and Features"
 ---
 
 ## Speaking Engagements
