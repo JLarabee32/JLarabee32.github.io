@@ -1,10 +1,24 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Joey Larabee",
+    "objectID": "media.html",
+    "href": "media.html",
+    "title": "Media Appearances",
     "section": "",
-    "text": "I am a graduate student at Michigan State University pursuing an M.S. in Data Science and a Graduate Certificate in Sports Analytics. My academic work focuses on statistical modeling, machine learning, and data engineering techniques applied to high velocity sports data. I currently work with SMT (SportsMEDIA Technology) on the RAZOR NHL platform, where I analyze NHL Player and Puck Tracking data to support performance insights, spatial analysis, and real time decision support tools. My experience spans data preprocessing, feature engineering, predictive modeling, and visualization within the hockey analytics ecosystem. Before transitioning into analytics, I spent time as a goalie, coach, and sports betting trader—experiences that shaped my understanding of the game and inform my approach to quantitative evaluation. I am also a graduate of Colorado College (Class of 2020). Thank you for visiting my website. You can explore my project portfolio using the tabs above, and connect with me via LinkedIn or email using the links on the left."
+    "text": "“Predicting the Puck With Pythagoras”\nAt the 2025 Ontario Universities Sports Analytics Conference I spoke on my work with predicting NHL season long wins using the pythagorean win expectations formula.\nWatch the Full Talk →\n\n\n\n\n\n\n\n\nAt the 2025 MSU Simon Lecture presented by the Actuarial Sciences department I delivered a short technical lecture on the applications of the implied random variable to sports.\nRead the Lecture Recap →"
+  },
+  {
+    "objectID": "media.html#speaking-engagements",
+    "href": "media.html#speaking-engagements",
+    "title": "Media Appearances",
+    "section": "",
+    "text": "“Predicting the Puck With Pythagoras”\nAt the 2025 Ontario Universities Sports Analytics Conference I spoke on my work with predicting NHL season long wins using the pythagorean win expectations formula.\nWatch the Full Talk →\n\n\n\n\n\n\n\n\nAt the 2025 MSU Simon Lecture presented by the Actuarial Sciences department I delivered a short technical lecture on the applications of the implied random variable to sports.\nRead the Lecture Recap →"
+  },
+  {
+    "objectID": "media.html#featured-interviews",
+    "href": "media.html#featured-interviews",
+    "title": "Media Appearances",
+    "section": "Featured Interviews",
+    "text": "Featured Interviews\n\n\n\n\n\nFOX 47: Predicting the Rivalry\n“MSU Students use math and statistics to predict the winner of Friday’s matchup with the Wolverines”\nI sat down with Fox 47 to discuss using the Pythagorean Expectation (the “Moneyball formula”) to analyze the MSU vs. Michigan basketball matchup.\nWatch the Full Interview →\n\n\n\n\n\n\n\nThe Drive with Jack\n“Albert Cohen & Joey Larabee discuss analytics in sports”\nIn this appearance on The Drive with Jack, I joined the show with my mentor Albert Cohen to discuss the growing and changing role of analytics in sports.\nListen to the Show →"
   },
   {
     "objectID": "about.html",
@@ -12,5 +26,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Joey Larabee",
+    "section": "",
+    "text": "I am a graduate student at Michigan State University pursuing an M.S. in Data Science and a Graduate Certificate in Sports Analytics. My academic work focuses on statistical modeling, machine learning, and data engineering techniques applied to high velocity sports data. I currently work with SMT (SportsMEDIA Technology) on the RAZOR NHL platform, where I analyze NHL Player and Puck Tracking data to support performance insights, spatial analysis, and real time decision support tools. My experience spans data preprocessing, feature engineering, predictive modeling, and visualization within the hockey analytics ecosystem. Before transitioning into analytics, I spent time as a goalie, coach, and sports betting trader—experiences that shaped my understanding of the game and inform my approach to quantitative evaluation. I am also a graduate of Colorado College (Class of 2020). Thank you for visiting my website. You can explore my project portfolio using the tabs above, and connect with me via LinkedIn or email using the links on the left."
   }
 ]
