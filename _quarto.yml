@@ -10,6 +10,8 @@ website:
         text: Home
       - href: media.qmd
         text: Media
+      - href: portfolio.qmd
+        text: Project Portfolio
 
 format:
   html:

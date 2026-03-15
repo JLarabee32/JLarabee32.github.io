@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Project Portfolio",
+    "section": "",
+    "text": "Pythagoras’s Puck\nApplying techniques from quantitative finance and risk management to solving for a dynamic Pythagorean exponent in NHL hockey. In addition to solving for this exponent, I also use it to simulate full NHL seasons and as a component to pricing a one year contract.\nExplore the Web App →\nWatch a Talk on This Topic from OUSAC 2025 →\n\nIf the app is non-responsive, please contact Joey.\n\n\n\n\nChange The Tempo\nA project in applying computational optimization techniques to the NFL. If you treated the variation in the timing of the snap by an NFL offense as a predictive factor to their success, can you optimize this variation for better efficiency? The answer I found is yes — NFL offenses are more successful when they vary the timing of the snap more, and increasing their standard deviation by one second per drive would likely cause them to score more.\nRead the Project Slides →\n\n\n\nWinning in the Margins\nWith college football now allowing schools to pay players a portion of the revenue the school earns from athletics, it raised a natural question of how much is a college football quarterback worth to a school? Using publicly available revenue data and a dynamic Pythagorean exponent to connect points to wins, I solved for the marginal revenue gains from an extra win, and the dollar value a quarterback contributed to his school.\nRead the Project Report →"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Joey Larabee",
+    "section": "",
+    "text": "I am a graduate student at Michigan State University pursuing an M.S. in Data Science and a Graduate Certificate in Sports Analytics. My academic work focuses on statistical modeling, machine learning, and data engineering techniques applied to high velocity sports data. I currently work with SMT (SportsMEDIA Technology) on the RAZOR NHL platform, where I analyze NHL Player and Puck Tracking data to support performance insights, spatial analysis, and real time decision support tools. My experience spans data preprocessing, feature engineering, predictive modeling, and visualization within the hockey analytics ecosystem. Before transitioning into analytics, I spent time as a goalie, coach, and sports betting trader—experiences that shaped my understanding of the game and inform my approach to quantitative evaluation. I am also a graduate of Colorado College (Class of 2020). Thank you for visiting my website. You can explore my project portfolio using the tabs above, and connect with me via LinkedIn or email using the links on the left."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
     "objectID": "media.html",
     "href": "media.html",
     "title": "Media Appearances",
@@ -19,19 +40,5 @@
     "title": "Media Appearances",
     "section": "Featured Interviews",
     "text": "Featured Interviews\n\n\n\n\n\nFOX 47: Predicting the Rivalry\n“MSU Students use math and statistics to predict the winner of Friday’s matchup with the Wolverines”\nI sat down with Fox 47 to discuss using the Pythagorean Expectation (the “Moneyball formula”) to analyze the MSU vs. Michigan basketball matchup.\nWatch the Full Interview →\n\n\n\n\n\n\n\nThe Drive with Jack\n“Albert Cohen & Joey Larabee discuss analytics in sports”\nIn this appearance on The Drive with Jack, I joined the show with my mentor Albert Cohen to discuss the growing and changing role of analytics in sports.\nListen to the Show →"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Joey Larabee",
-    "section": "",
-    "text": "I am a graduate student at Michigan State University pursuing an M.S. in Data Science and a Graduate Certificate in Sports Analytics. My academic work focuses on statistical modeling, machine learning, and data engineering techniques applied to high velocity sports data. I currently work with SMT (SportsMEDIA Technology) on the RAZOR NHL platform, where I analyze NHL Player and Puck Tracking data to support performance insights, spatial analysis, and real time decision support tools. My experience spans data preprocessing, feature engineering, predictive modeling, and visualization within the hockey analytics ecosystem. Before transitioning into analytics, I spent time as a goalie, coach, and sports betting trader—experiences that shaped my understanding of the game and inform my approach to quantitative evaluation. I am also a graduate of Colorado College (Class of 2020). Thank you for visiting my website. You can explore my project portfolio using the tabs above, and connect with me via LinkedIn or email using the links on the left."
   }
 ]

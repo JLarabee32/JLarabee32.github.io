@@ -1,0 +1,29 @@
+---
+title: "Project Portfolio"
+description: "Research, Analyses, and Interactive Tools"
+---
+### Pythagoras's Puck
+
+Applying techniques from quantitative finance and risk management to solving for a dynamic Pythagorean exponent in NHL hockey. In addition to solving for this exponent, I also use it to simulate full NHL seasons and as a component to pricing a one year contract.
+
+[Explore the Web App →](https://pythagoraspuck.streamlit.app/)
+
+[Watch a Talk on This Topic from OUSAC 2025 →](https://youtu.be/2P5KwVbfm78?si=MEXoyv7pgO8JBe5M)
+
+> *If the app is non-responsive, please contact Joey.*
+
+---
+
+### Change The Tempo
+
+A project in applying computational optimization techniques to the NFL. If you treated the variation in the timing of the snap by an NFL offense as a predictive factor to their success, can you optimize this variation for better efficiency? The answer I found is yes — NFL offenses are more successful when they vary the timing of the snap more, and increasing their standard deviation by one second per drive would likely cause them to score more.
+
+[Read the Project Slides →](reports/Change The Tempo.pdf)
+
+---
+
+### Winning in the Margins
+
+With college football now allowing schools to pay players a portion of the revenue the school earns from athletics, it raised a natural question of how much is a college football quarterback worth to a school? Using publicly available revenue data and a dynamic Pythagorean exponent to connect points to wins, I solved for the marginal revenue gains from an extra win, and the dollar value a quarterback contributed to his school.
+
+[Read the Project Report →](reports/Revenue_and_QB_Valuation.pdf)
