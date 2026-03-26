@@ -39,6 +39,22 @@ At the 2025 MSU Simon Lecture presented by the Actuarial Sciences department I d
 :::
 
 ## Featured Interviews
+::: {.grid .align-items-center}
+
+::: {.g-col-12 .g-col-md-4 .text-center}
+![](https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f1/80/cd/f180cd0c-556d-9467-18e8-0234ead9689c/mza_14203694025930507938.jpg/1200x1200bf-60.jpg){width="80%" .border .rounded}
+:::
+
+::: {.g-col-12 .g-col-md-8}
+### The Drive with Jack
+**"Dr. Albert Cohen & Joey Larabee discuss analytics, NCAA Tournaments"**
+
+In this appearance on *The Drive with Jack*, I joined the show with my mentor Albert Cohen to discuss my ongoing capstone work on NFL Draft modeling, as well as discussing MSU hockey & basketball in the NCAA Tournaments 
+
+[Listen to the Show →](https://podcasts.apple.com/us/podcast/dr-albert-cohen-joey-larrabee-discuss-analytics-in-sports/id1169637295?i=1000757147714)
+:::
+
+:::
 
 ::: {.grid .align-items-center}
 
